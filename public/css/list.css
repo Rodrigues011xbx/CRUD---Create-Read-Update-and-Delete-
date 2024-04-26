@@ -1,0 +1,23 @@
+body{
+    background-image: url('/img/background-img-list.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#img{
+    width: 15%;
+    object-position: 0 -0.10rem;
+}
+
+.btn-primary {
+  background-color: #387bb4 !important;
+  border-color: #387bb4 !important;
+}
+
+.btn-primary:hover {
+  background-color: #20639e !important;
+  border-color: #20639e !important;
+}
+#titu{
+    color:white;
+}
